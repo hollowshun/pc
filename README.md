@@ -2,6 +2,14 @@
 
 > https://hollowshun.github.io/pc/dist/index.html
 
+## iconfont添加
+
+本网站使用的是element里的已有icon，icon有限，想使用阿里的iconfont，可移步
+
+https://blog.csdn.net/weixin_44314258/article/details/96000361
+
+简单粗暴的在项目中封装iconfont和使用
+
 ## 技术
 vue2.0 + element + i18n + vue-cli + router + axios
 
