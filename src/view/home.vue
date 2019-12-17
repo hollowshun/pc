@@ -8,7 +8,7 @@
       </el-carousel>
     </div>
     <div class="content">
-      {{ $t("home") }}
+      {{ $t("home")}}
     </div>
   </div>
 </template>
