@@ -2,6 +2,9 @@
 
 > https://hollowshun.github.io/wh/pc/index.html
 
+##如何实现预览地址请移步
+https://blog.csdn.net/weixin_44314258/article/details/103492686
+
 ## iconfont添加
 
 本网站使用的是element里的已有icon，icon有限，想使用阿里的iconfont，可移步
