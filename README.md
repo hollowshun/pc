@@ -1,6 +1,6 @@
 # 预览地址
 
-> https://hollowshun.github.io/pc/dist/index.html
+> https://hollowshun.github.io/wh/pc/index.html
 
 ## iconfont添加
 
